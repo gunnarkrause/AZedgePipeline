@@ -24,7 +24,7 @@ You need administations access to create the "Service Connection", because a ser
  -> next step the repo 
  -> starter pipeline (better to start with an empty sheet:-)
  
- 4. I copies the tasks from MS https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/build/azure-iot-edge?view=azure-devops  
+ 4. I copied the tasks from MS https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/build/azure-iot-edge?view=azure-devops  
     
   -> first Task is to build the new module, here you can follow the MS documentation quite foreward. Check the deployment.template.json
      that everything matches.
