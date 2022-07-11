@@ -63,7 +63,7 @@ You need administations access to create the "Service Connection", because a ser
    
    Next Steps :
    - Current you are using a MS Build Agent, i would recomend to setup an own Build Agent with a fixed OS version
-   - Added Addtitional Setps to your build like deployment manifest and push to your edge device 
+   - Add Addtitional Setps to your build like deployment manifest and push to your edge device 
    - ...
    
    
