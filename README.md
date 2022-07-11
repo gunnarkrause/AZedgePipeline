@@ -1,7 +1,7 @@
 # AZedgePipeline
 
 The build and deplyoment of Azure IoT Edge Moduls is quite simple. The templates for the Azure DevOps CI/CD pipelines
-are already exiting and most f the steps to make them work is straightforward. 
+are already exiting and most of the steps to make them work is straightforward. 
 
 But let's start, and first some prework has to be done :
 
